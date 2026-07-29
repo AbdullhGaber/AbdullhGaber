@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I am a Mobile Software Engineer obsessed with the entire lifecycle of software development. As an ITI 9-month graduate with a B.Sc. in Software Engineering, I've been deep in the Android ecosystem since late 2022, but my technical curiosity doesn't stop at the UI. 
 
 I love turning creative ideas into robust, high-performance applications. For me, writing code is about crafting systems that are built to last and designed to scale. Mobile apps don't exist in a vacuum, so I leverage my backend and networking knowledge to ensure seamless data flow, efficient load balancing, and optimal app performance.
