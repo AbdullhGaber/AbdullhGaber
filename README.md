@@ -75,26 +75,81 @@ I love turning creative ideas into robust, high-performance applications. For me
 
 **Route Academy** | *Jun 2024 – Oct 2024*
 > 4-Month Intensive Android Diploma covering Java, Kotlin, XML Views, and Jetpack Compose.
-
-### 💻 My Skill Set
+---
+## 💻 My Skill Set
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,swift,objc,dart,flutter,android,apple,firebase,sqlite,git,github&perline=4" />
-  </a>
-  <br>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,figma" />
-  </a>
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <br>
+        <div align="center">
+          <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" /></a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50" /></a>
+        </div>
+        <br>
+        <div align="center">
+          <a href="https://developer.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="50" height="50" /></a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" /></a>
+        </div>
+        <br>
+      </td>
+      <td valign="top" width="33%">
+        <br>
+        <div align="center">
+          <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" /></a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="50" height="50" /></a>
+        </div>
+        <br>
+        <div align="center">
+          <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" /></a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" /></a>
+        </div>
+        <br>
+      </td>
+      <td valign="top" width="33%">
+        <br>
+        <div align="center">
+          <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" /></a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /></a>
+        </div>
+        <br>
+        <div align="center">
+          <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" /></a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" /></a>
+        </div>
+        <br>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" title="SQLite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" alt="windows logo" title="Windows" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" alt="apple logo" title="macOS" />
+</div>
 
 ## 🐍 Fun Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdullhGaber/AbdullhGaber/output/snake.svg" alt="Snake animation" />
-</p>
-
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullhGaber/AbdullhGaber/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullhGaber/AbdullhGaber/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdullhGaber/AbdullhGaber/output/github-snake.svg">
+  </picture>
+</div>
